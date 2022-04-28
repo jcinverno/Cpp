@@ -4,8 +4,7 @@ using namespace std;
 
 int main() 
 {
-/**********************************
- * 
+
 int age {21};
 cout << age << endl;
 
@@ -18,7 +17,7 @@ int room_length {0};
 cin >> room_length;
 
 cout << "The area of the room is " << room_width*room_length << " square meters." <<endl;
-*/
+
 /******************
  *Character type
  ******************/
@@ -28,7 +27,7 @@ cout <<"My initial letter is "<<middle_initial<<endl;
 
 /********************
  * Integer types 
- * *****************
+ * *****************/
 
 unsigned short int exam_score {55};
 cout <<"My exam score was " << exam_score <<endl;
@@ -42,7 +41,7 @@ cout << "There are about " << people_in_florida << " people in florida." <<endl;
 long long people_on_earth {7600000000};
 cout << "There are " << people_on_earth << " people on earth." << endl;
 
-********************************
+/********************************
  * Floating point types
  * *****************************/
 
